@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Tiddly Z's Blog]]></title>
   <link href="http://tiddlyz.github.com/atom.xml" rel="self"/>
   <link href="http://tiddlyz.github.com/"/>
-  <updated>2013-03-25T00:37:11-04:00</updated>
+  <updated>2013-03-25T01:23:23-04:00</updated>
   <id>http://tiddlyz.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[T Z]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, Blogging World]]></title>
+    <link href="http://tiddlyz.github.com/blog/2013/03/25/hello-blogging-world/"/>
+    <updated>2013-03-25T01:02:00-04:00</updated>
+    <id>http://tiddlyz.github.com/blog/2013/03/25/hello-blogging-world</id>
+    <content type="html"><![CDATA[<h2>Hello, Blogging World</h2>
+
+
+<p> This is the first blog. </p>
+
+
+<p>25 Mar 2013</p>
+
+]]></content>
+  </entry>
   
 </feed>

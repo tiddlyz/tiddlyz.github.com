@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://tiddlyz.github.com/blog/2013/03/25/hello-blogging-world/</loc>
+        <lastmod>2013-03-25T01:10:33-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://tiddlyz.github.com/robots.txt</loc>
         <lastmod>2013-03-24T22:54:05-04:00</lastmod>
     </url>
     <url>
         <loc>http://tiddlyz.github.com/blog/archives/</loc>
-        <lastmod>2013-03-24T22:54:04-04:00</lastmod>
+        <lastmod>2013-03-25T01:10:33-04:00</lastmod>
     </url>
     <url>
         <loc>http://tiddlyz.github.com/</loc>
-        <lastmod>2013-03-24T22:54:04-04:00</lastmod>
+        <lastmod>2013-03-25T01:10:33-04:00</lastmod>
     </url>
 </urlset>
